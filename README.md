@@ -17,4 +17,4 @@ FEATURES
 -Automated suggestions of healthcare centres/police stations to (figuring out who or what needs attention first) relief from. 
 -SMS alerts to victims in the area with directions to the nearest relief centre. 
 -It is designed to help people communicate when traditional cellular networks go down during a disaster. The app uses the combined signal of Wi-Fi and Bluetooth to form ad hoc network that allows one to send and receive messages. 
--The Reports range from damages in an area and a person's current situation during a disaster. Users are also able to connect to friends easily as the system (combines different things together so they work as one unit) contacts in the user's account. The app is also open to disaster aid volunteers.
+-The Reports range from damages in an area and a person's current situation during a disaster. Users are also able to connect to friends easily as the system (combines different things together so they work as one unit) contacts in the user's account. The app is also open to disaster aid volunteers. 
